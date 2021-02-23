@@ -1,4 +1,4 @@
-# Project 3
+# Reddit NLP Project
 
 ## Project Overview
 ### 1. Problem Statement
